@@ -1,0 +1,4 @@
+*.jpg
+!CMakeLists.txt
+!laba_2.cpp
+!Console1.cpp
