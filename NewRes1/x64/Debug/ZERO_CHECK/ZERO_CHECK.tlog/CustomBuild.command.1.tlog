@@ -1,0 +1,10 @@
+^C:\USERS\ILANO\ONEDRIVE\РАБОЧИЙ СТОЛ\IIII\CMAKEFILES\C139C5A621EAA6D753946542513ED694\GENERATE.STAMP.RULE
+setlocal
+"C:\Program Files\CMake\bin\cmake.exe" "-SC:/Users/ilano/OneDrive/Рабочий стол/CMake1" "-BC:/Users/ilano/OneDrive/Рабочий стол/iiii" --check-stamp-list CMakeFiles/generate.stamp.list --vs-solution-file "C:/Users/ilano/OneDrive/Рабочий стол/iiii/Console1.cpp.sln"
+if %errorlevel% neq 0 goto :cmEnd
+:cmEnd
+endlocal & call :cmErrorLevel %errorlevel% & goto :cmDone
+:cmErrorLevel
+exit /b %1
+:cmDone
+if %errorlevel% neq 0 goto :VCEnd
