@@ -1,0 +1,3 @@
+C:/Users/ilano/OneDrive/Рабочий стол/iiii/CMakeFiles/Console1.cpp.dir
+C:/Users/ilano/OneDrive/Рабочий стол/iiii/CMakeFiles/ALL_BUILD.dir
+C:/Users/ilano/OneDrive/Рабочий стол/iiii/CMakeFiles/ZERO_CHECK.dir
